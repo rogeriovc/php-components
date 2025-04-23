@@ -28,7 +28,7 @@ $playlists = [
     [
         "titulo" => "Cow songs",
         "artistas" => "Saint Hilda, Canada Buffalo",
-        "imagem" => "img/CowSong.jpg"
+        "imagem" => "img/Cow2.jpg"
     ]
 ];
 ?>
